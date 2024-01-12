@@ -1,4 +1,4 @@
 # Demo
 
-Descriptions :
+Description :
 learning web development is an interesting journey 
